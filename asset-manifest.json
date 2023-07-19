@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Designer-rp/static/css/main.df3ef94b.css",
+    "main.js": "/Designer-rp/static/js/main.be6abb8d.js",
+    "static/media/projectOne.jpg": "/Designer-rp/static/media/projectOne.06bea744869cc572baf1.jpg",
+    "static/media/projectThree.jpg": "/Designer-rp/static/media/projectThree.e9ade2179005066b53f4.jpg",
+    "static/media/projectTwo.jpg": "/Designer-rp/static/media/projectTwo.18ed8210e62eb08aebfb.jpg",
+    "static/media/contactImg.png": "/Designer-rp/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/Designer-rp/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/Designer-rp/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/logo.png": "/Designer-rp/static/media/logo.00fa2f5f0cf08c43bb21.png",
+    "static/media/bannerImg.jpg": "/Designer-rp/static/media/bannerImg.f58051e294fc1a9b6725.jpg",
+    "index.html": "/Designer-rp/index.html",
+    "main.df3ef94b.css.map": "/Designer-rp/static/css/main.df3ef94b.css.map",
+    "main.be6abb8d.js.map": "/Designer-rp/static/js/main.be6abb8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3ef94b.css",
+    "static/js/main.be6abb8d.js"
+  ]
+}
